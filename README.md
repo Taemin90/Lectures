@@ -1,6 +1,6 @@
 # Linear Algebra
 ## Overview
-I studied the Linear Algebra below, and write the python code about the problems in the book.   
+I studied the Linear Algebra below, and wrte the python code about the problems in the book.   
 This repository is about the code I write.   
 Even though there are all answers in the book, I tried to write my code on my own.   
 
