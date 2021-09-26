@@ -10,6 +10,10 @@ Even though there are all answers in the book, I tried to write my code by mysel
 
 http://www.yes24.com/Product/Goods/91102631
 
+## How to start
+This project was coded in Python 3.9
+  * numpy
+
 ## Contents
 1. Chapter1 IntroductionToLinearAlgebra
 2. Chapter2 LinearEquation
