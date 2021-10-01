@@ -15,6 +15,7 @@ This project was coded in Python 3.9
   * numpy
 
 ## Contents
-1. Chapter1 IntroductionToLinearAlgebra
-2. Chapter2 LinearEquation
+1. Chapter1 Introduction To Linear Algebra
+2. Chapter2 Linear Equation
 3. Chapter3 Matrix
+4. Chapter4 Inverse Matrix
