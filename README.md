@@ -19,3 +19,6 @@ This project was coded in Python 3.9
 2. Chapter2 Linear Equation
 3. Chapter3 Matrix
 4. Chapter4 Inverse Matrix
+5. Chapter5 Determinant
+6. Chapter6 Vector
+7. Chapter7 Linear Transform
