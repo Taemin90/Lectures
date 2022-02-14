@@ -24,3 +24,4 @@ This project was coded in Python 3.9
 7. Chapter7 Linear Transform
 8. Chapter8 Eigenvalue and Eigenvector
 9. Chapter9 Orthogonality
+10. Chapter10 Diagonalization and Symmetry
