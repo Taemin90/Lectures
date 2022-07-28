@@ -1,7 +1,7 @@
 # Linear Algebra
 ## Overview
-I studied the Linear Algebra, and wrte the python code about the problems in the book below.   
-This repository is about the code I write.   
+I studied the Linear Algebra, and wrote the python code about the problems in the book below.   
+This repository is about the code I wrote.   
 Even though there are all answers in the book, I tried to write my code by myself.   
 
 < 응용이 보이는 선형대수학 - 이건명 지음, 한빛아카데미 > 
